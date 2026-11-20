@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "updatedAt": "2026-11-20T08:56:57.316Z",
+  "siteContent": {
+    "adsEnabled": true,
+    "globalAdsKeeperSiteId": "",
+    "tagline": "Real Stories About Real Lives",
+    "announcementText": "",
+    "hiddenBuiltInIds": [],
+    "deletedBuiltInIds": []
+  },
+  "sponsorAds": [],
+  "adPlacements": {},
+  "categoryCounts": {
+    "Full Story": 11,
+    "Horoscope": 5
+  }
+}
